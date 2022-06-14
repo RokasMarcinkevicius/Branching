@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching", "Branching\Bran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching.Repository", "Branching.Repository\Branching.Repository.csproj", "{C66382A4-37C7-49C8-B96C-A14FFF041446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching.API", "Branching.API\Branching.API.csproj", "{187E346F-2A22-41CF-8105-0A1152A1CAED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C66382A4-37C7-49C8-B96C-A14FFF041446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66382A4-37C7-49C8-B96C-A14FFF041446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66382A4-37C7-49C8-B96C-A14FFF041446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187E346F-2A22-41CF-8105-0A1152A1CAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187E346F-2A22-41CF-8105-0A1152A1CAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187E346F-2A22-41CF-8105-0A1152A1CAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187E346F-2A22-41CF-8105-0A1152A1CAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
