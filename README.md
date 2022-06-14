@@ -1,6 +1,11 @@
 # Branching
 
 Branching is an example of using branches.
+-------------
+
+* X
+* Y
+* Z
 
 ## Installation
 
